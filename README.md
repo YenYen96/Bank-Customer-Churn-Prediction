@@ -1,6 +1,6 @@
-# Fraud Prediction Model
+# Churn Prediction Model
 
-Machine learning project for detecting bank cusromers churn using Python.
+Machine learning project for detecting bank customers churn using Python.
 
 ## Project Files
 
